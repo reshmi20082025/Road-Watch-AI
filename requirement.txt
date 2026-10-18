@@ -1,3 +1,0 @@
-Flask
-inference-sdk
-requests
